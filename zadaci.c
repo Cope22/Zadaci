@@ -22,4 +22,4 @@ putchar ('A');
 
 }
 
-//Rezultat: Tetiva//
+//Rezultat: TETIVA//
