@@ -22,4 +22,7 @@ putchar ('A');
 
 }
 
-//Rezultat: TETIVA//
+//i=0 ispisuje T, i=1 ispisuje E, i=2 ispisuje deafult T,i=3 ispisuje I i V, i=4 ne ispisuje nista jer je i<4, putchar A ispisuje A na kraju, krajnji rezultat: T E T I V A
+//
+
+
